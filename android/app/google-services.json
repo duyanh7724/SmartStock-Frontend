@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1304913756",
+    "project_id": "smartstock-a7ce9",
+    "storage_bucket": "smartstock-a7ce9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1304913756:android:0ed393652570c544a84399",
+        "android_client_info": {
+          "package_name": "com.example.flutter_qlkho_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1304913756-o7qkg3badppaer2dsvtoad4k5ejlup8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_qlkho_new",
+            "certificate_hash": "14a997b2465e42e301d2d3e4da3ce2aec4d5fb27"
+          }
+        },
+        {
+          "client_id": "1304913756-c2kdkjhm18fn9bf7bi280omc8u3lem3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3dteG7A6hqJXgQHpWX8Oxw7FS7rVfHL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1304913756-c2kdkjhm18fn9bf7bi280omc8u3lem3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
